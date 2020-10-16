@@ -49883,8 +49883,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\andrea\desktop\developer\boolean\laravel\laravel-airbnb-test\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\andrea\desktop\developer\boolean\laravel\laravel-airbnb-test\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /Users/giulia/Desktop/git-test/laravel-airbnb-test/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /Users/giulia/Desktop/git-test/laravel-airbnb-test/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
